@@ -32,7 +32,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=fhslwq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fhslwq's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+![fhslwq's github stats](https://github-readme-stats.vercel.app/api?username=fhslwq&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhslwq&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fhslwq&layout=compact&langs_count=6)
