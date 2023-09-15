@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：八股八股我爱八股。
+-   <a href="https://github.com/fhslwq"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：八股八股我爱八股。
 
 ### **技术栈:**
 
@@ -24,9 +24,9 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### 偷的项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![]([https://github-readme-stats.vercel.app/api/pin/](https://github.com/fhslwq/nowcoder-community)?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 <br><br><br>
 
 ### Github 活跃度
